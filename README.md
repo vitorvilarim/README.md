@@ -1,6 +1,10 @@
 # Hey Dev's! :vulcan_salute:
 
-Meu nome é Vitor Vilarim e eu sou desenvolvedor BackEnd!
+Um cara apreciador de bons hamburgueres e churrascos, além de um bom montador de código e conversador. 
+
+:computer: Desenvolvedor
+:mortar_board: Formando em Análise e Desenvolvimento de Sistemas 
+:open_book: Apreciador de cyber security
 
 ## :point_right: Para me encontrar:
 
@@ -16,6 +20,4 @@ Meu nome é Vitor Vilarim e eu sou desenvolvedor BackEnd!
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry - Lorem Ipsum
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
